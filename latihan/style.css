@@ -1,0 +1,27 @@
+form{
+    color: red;
+    text-align: center;
+}
+
+body{
+    color: black;
+    text-align: center;
+}
+
+button{
+    color:blue;
+    text-align: justify;
+    border: black;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-size: 1cm;
+}
+
+head{
+    text-decoration: black;
+}
+
+h1{
+    text-transform: uppercase;
+    text-rendering: optimizeSpeed;
+}
